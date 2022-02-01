@@ -78,7 +78,7 @@ Si hay alguna dificultad o necesitas alguna ayuda con el proyecto por favor cont
 
 ## Recuerda dar las gracias :blue_heart:
 Este proyecto puedes ocuparlo siempre y cuando:
-- Des la gracias :heartpulse:
+- Da la gracias :heartpulse:
 - No lo ocupes con fines maliciosos :lock_with_ink_pen:
 - Me invites un cafe :coffee:
 
