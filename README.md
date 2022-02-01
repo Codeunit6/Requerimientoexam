@@ -15,7 +15,7 @@ git add .
 git commit -m "mesaje"
 git push
 ```
-##Contenido del proyecto :package:
+## Contenido del proyecto :package:
 
 ### Tecnologias
 
@@ -74,7 +74,7 @@ Tambien es necesario leer los pdf que se encuentran en el proyecto, lo cuales so
 Si hay alguna dificultad o necesitas alguna ayuda con el proyecto por favor contactame aqui:
 - :telephone_receiver:  5540124899
 
-- :package:  fernando.brayan.m.g@gmail.com
+- :envelope:  fernando.brayan.m.g@gmail.com
 
 ## Recuerda dar las gracias :blue_heart:
 Este proyecto puedes ocuparlo siempre y cuando:
